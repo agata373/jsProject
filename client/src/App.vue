@@ -19,4 +19,9 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+.input-group--text-field input {
+  border-bottom: 1px solid black;
+}
+
 </style>
